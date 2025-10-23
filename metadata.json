@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of TAQTAQ technical institute - Student Dashboard",
+  "description": "A student-facing dashboard for the TAQTAQ technical institute, showcasing key academic and administrative information like courses, attendance, fees, and schedule. This serves as a frontend prototype for the larger system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
